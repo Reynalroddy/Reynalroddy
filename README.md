@@ -1,7 +1,5 @@
 - 👋 Hi, I’m olanrewaju Ajayi
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 @_r3ynal on twitter
 
 <!---
